@@ -1,4 +1,4 @@
-# This repository was created for the only purpose of studis in React.
+# This repository was created for the only purpose of studies in React.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
